@@ -35,3 +35,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/Natsman/household-expenditure-analysis.git
 cd household-expenditure-analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Natsman/household-expenditure-analysis/main)
